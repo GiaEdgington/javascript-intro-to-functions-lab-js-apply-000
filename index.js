@@ -11,5 +11,7 @@ function logShout(string){
 }
 
 function logWhisper(string){
-  cons
+  console.log(whisper(string))
 }
+
+function
